@@ -1,7 +1,6 @@
 import os
 import glob
 import shutil
-import random
 import pandas as pd
 from deepface import DeepFace
 
